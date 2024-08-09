@@ -105,7 +105,7 @@ module.exports = function toReadable (number) {
     }else if (number===51) {
 		return 'fifty one'; 
     }else if (number===52) {
-		return 'fifty twо'; 
+		return 'fifty two'; 
     }else if (number===53) {
 		return 'fifty three'; 
     }else if (number===54) {
@@ -341,69 +341,69 @@ module.exports = function toReadable (number) {
 	}else if (number===169) {
 		return 'one hundred sixty nine'; 
 	}else if (number===170) {
-		return 'hundred'; 
+		return 'one hundred seventy'; 
 	}else if (number===171) {
-		return 'hundred'; 
+		return 'one hundred seventy one'; 
 	}else if (number===172) {
-		return 'hundred'; 
+		return 'one hundred seventy two'; 
 	}else if (number===173) {
-		return 'hundred'; 
+		return 'one hundred seventy three'; 
 	}else if (number===174) {
-		return 'hundred'; 
+		return 'one hundred seventy four'; 
 	}else if (number===175) {
-		return 'hundred'; 
+		return 'one hundred seventy five'; 
 	}else if (number===176) {
-		return 'hundred'; 
+		return 'one hundred seventy six'; 
 	}else if (number===177) {
-		return 'hundred'; 
+		return 'one hundred seventy seven'; 
 	}else if (number===178) {
-		return 'hundred'; 
+		return 'one hundred seventy eight'; 
 	}else if (number===179) {
-		return 'hundred'; 
+		return 'one hundred seventy nine'; 
 	}else if (number===180) {
-		return 'hundred'; 
+		return 'one hundred eighty'; 
 	}else if (number===181) {
-		return 'hundred'; 
+		return 'one hundred eighty one'; 
 	}else if (number===182) {
-		return 'hundred'; 
+		return 'one hundred eighty two'; 
 	}else if (number===183) {
-		return 'hundred'; 
+		return 'one hundred eighty three'; 
 	}else if (number===184) {
-		return 'hundred'; 
+		return 'one hundred eighty four'; 
 	}else if (number===185) {
-		return 'hundred'; 
+		return 'one hundred eighty five'; 
 	}else if (number===186) {
-		return 'hundred'; 
+		return 'one hundred eighty six'; 
 	}else if (number===187) {
-		return 'hundred'; 
+		return 'one hundred eighty seven'; 
 	}else if (number===188) {
-		return 'hundred'; 
+		return 'one hundred eighty eight'; 
 	}else if (number===189) {
-		return 'hundred'; 
+		return 'one hundred eighty nine'; 
 	}else if (number===190) {
-		return 'hundred'; 
+		return 'one hundred ninety'; 
 	}else if (number===191) {
-		return 'hundred'; 
+		return 'one hundred ninety one'; 
 	}else if (number===192) {
-		return 'hundred'; 
+		return 'one hundred ninety two'; 
 	}else if (number===193) {
-		return 'hundred'; 
+		return 'one hundred ninety three'; 
 	}else if (number===194) {
-		return 'hundred'; 
+		return 'one hundred ninety four'; 
 	}else if (number===195) {
-		return 'hundred'; 
+		return 'one hundred ninety five'; 
 	}else if (number===196) {
-		return 'hundred'; 
+		return 'one hundred ninety six'; 
 	}else if (number===197) {
-		return 'hundred'; 
+		return 'one hundred ninety seven'; 
 	}else if (number===198) {
-		return 'hundred'; 
+		return 'one hundred ninety eight'; 
 	}else if (number===199) {
-		return 'hundred'; 
+		return 'one hundred ninety nine'; 
 	}else if (number===200) {
-		return 'hundred'; 
+		return 'two hundred'; 
 	}else if (number===201) {
-		return 'hundred'; 
+		return 'two hundred one'; 
 	}else if (number===202) {
 		return 'hundred'; 
 	}else if (number===203) {
